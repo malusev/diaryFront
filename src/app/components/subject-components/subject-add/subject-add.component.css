@@ -1,0 +1,16 @@
+.subject-add-wrapper {
+    margin: 50px 210px;
+}
+
+label {
+    color: white;
+}
+
+input {
+    width: 500px;
+}
+
+button {
+    width: 100px;
+    margin-top: 10px;
+}
